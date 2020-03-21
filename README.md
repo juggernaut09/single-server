@@ -12,6 +12,8 @@ Run *terraform plan* command. This command lets you see what Terraform will do b
 
 ## Deployment
 
+Use *terraform init* to initialize the plugins
+
 Use *terraform apply* to run the terraform
 
 Run *terraform output* to see the output values
